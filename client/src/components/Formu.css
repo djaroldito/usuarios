@@ -1,0 +1,97 @@
+.main{
+       background: url('../../img/1.jpg') left center/cover no-repeat;   
+       height: 150vh;
+       /* width: 100vh;  */
+}
+
+.form{
+    margin-left: 0.5cm;
+   padding-top: 0.5cm;
+   display: flex;
+   justify-content: flex-start
+  
+   
+
+}
+
+.imputs{
+ transform: translateY(-35px);
+ margin-left: 2.5cm;
+ display: flex;
+ padding: 5px;
+border: 1px solid black;
+}
+
+.button{
+    padding: 5px; ;
+    border-radius: 4px;
+    margin-left: 0.5cm;
+    color: darkgray;
+    background-color: rgb(7, 3, 18);
+    /* margin-left: 1.7cm; */
+    
+}
+.button:hover{
+    background-color: rgb(18, 134, 91);
+    color: black;
+}
+
+.buttonHome:hover{
+    background-color: rgb(18, 134, 91);
+    color: black;
+}
+
+.buttonUser:hover{
+    background-color: rgb(14, 15, 15);
+    color: black;
+}
+
+.label{
+    border: 1px solid black;
+    padding: 6px;
+    background-color: rgb(216, 205, 205);
+    border-radius: 3px;
+    color: rgb(32, 30, 38);
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
+
+.labelI{
+    margin-left: 2.5cm;
+    border: 1px solid black;
+    padding: 6px;
+    background-color: rgb(10, 10, 10);
+    border-radius: 3px;
+    color: rgb(216, 213, 224);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+.buttonUser{
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: 0.6cm;
+    color: rgb(168, 165, 177);
+    /* background-color: rgb(7, 3, 18); */
+    
+}
+
+.buttonHome{
+    border-radius: 3px;
+    margin-left: 0.7cm;
+    padding: 4px;
+    color: rgb(141, 138, 150);
+     background-color: rgb(7, 3, 18);
+
+}
+
+a{
+    text-decoration: none;
+    color: rgb(136, 126, 126);
+}
+a:hover{
+    color: rgb(144, 139, 139);
+}

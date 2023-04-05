@@ -1,0 +1,11 @@
+.main1 {
+    background: url('../../img/1.jpg') left center/cover no-repeat;   
+    height: 100vh;
+  }
+
+  /* body {
+    background-image: url('../../img/1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  } */

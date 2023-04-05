@@ -1,0 +1,30 @@
+.main3 {
+  background: url('../../img/1.jpg') left center/cover no-repeat;   
+  height:105vh;
+  width: 100%;
+}
+
+/* body {
+  background-image: url('../../img/1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+} */
+
+.tarjetas-container {
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap; /* Evita que las tarjetas se dividan en varias líneas */
+}
+
+/* .tarjeta {
+  margin-top: 2px;
+  margin-left: 10px;
+  margin-bottom: 2px;
+  max-width: 300px;
+  
+ 
+  
+  overflow: hidden;
+  display: inline-block;
+} */
